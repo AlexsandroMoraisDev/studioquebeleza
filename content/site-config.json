@@ -1,45 +1,48 @@
 {
   "meta": {
-    "title": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia | S",
-    "description": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia | Salão de Beleza & Cabelereiros | em Salvador",
+    "title": "Studio Bella Face | Estética Facial e Corporal em Lauro de Freitas",
+    "description": "Studio Bella Face | Referência em Limpeza de Pele, Design de Sobrancelhas, Cílios e Massagem no Centro de Lauro de Freitas - BA",
     "keywords": [
-      "Salão de Beleza & Cabelereiros",
-      "Salvador"
+      "Limpeza de Pele Lauro de Freitas",
+      "Design de Sobrancelhas Centro Lauro de Freitas",
+      "Extensão de Cílios Lauro de Freitas",
+      "Drenagem Linfática Lauro de Freitas",
+      "Estética Centro Lauro de Freitas"
     ],
     "siteUrl": "",
     "locale": "pt_BR",
-    "ogTitle": "Nome da Empresa | Serviço principal",
-    "ogDescription": "Resumo do negócio para compartilhamento em redes sociais.",
-    "themeColor": "#3f9f5b",
+    "ogTitle": "Studio Bella Face | Estética e Bem-Estar em Lauro de Freitas",
+    "ogDescription": "Realce sua beleza natural com tratamentos faciais e corporais especializados no centro de Lauro de Freitas.",
+    "themeColor": "#D97706",
     "business": {
       "type": "BeautySalon",
-      "legalName": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia",
+      "legalName": "Studio Bella Face Lauro",
       "priceRange": "$$",
-      "areaServed": "Salvador - BA e região",
+      "areaServed": "Lauro de Freitas - BA e região",
       "currency": "BRL",
       "latitude": "",
       "longitude": "",
       "address": {
-        "street": "R. Comendador José Alves Ferreira, 02 - Garcia, Salvador - BA, 40100-160",
-        "district": "",
-        "city": "Salvador",
+        "street": "Centro",
+        "district": "Centro",
+        "city": "Lauro de Freitas",
         "region": "BA",
-        "postalCode": "",
+        "postalCode": "42700-000",
         "country": "BR"
       },
       "sameAs": []
     }
   },
   "brand": {
-    "logoIcon": "✿",
-    "name": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia",
-    "tagline": "Salão de Beleza & Cabelereiros",
-    "copyright": "© 2025 Nome da Empresa. Todos os direitos reservados.",
-    "whatsappUrl": "",
+    "logoIcon": "✨",
+    "name": "Studio Bella Face",
+    "tagline": "Estética Avançada e Bem-Estar",
+    "copyright": "© 2026 Studio Bella Face Lauro. Todos os direitos reservados.",
+    "whatsappUrl": "https://wa.me/5571988224411",
     "instagramUrl": "",
     "email": "",
-    "phoneLabel": "",
-    "phoneUrl": ""
+    "phoneLabel": "(71) 98822-4411",
+    "phoneUrl": "tel:+5571988224411"
   },
   "navbar": {
     "links": [
@@ -56,107 +59,186 @@
         "href": "#contato"
       }
     ],
-    "ctaLabel": "Falar no WhatsApp",
-    "ctaUrl": "https://wa.me/5500000000000",
+    "ctaLabel": "Agendar pelo WhatsApp",
+    "ctaUrl": "https://wa.me/5571988224411",
     "menuTitle": "Menu",
     "menuDescription": "Navegue pelas seções do site",
     "menuToggleLabel": "Abrir menu",
     "themeToggleLabel": "Alternar tema"
   },
   "hero": {
-    "eyebrow": "",
-    "title": "",
-    "highlight": "",
-    "description": "",
-    "primaryLabel": "Falar no WhatsApp",
-    "primaryUrl": "",
+    "eyebrow": "Cuidado e Autoestima no Centro de Lauro de Freitas",
+    "title": "Realce sua beleza com",
+    "highlight": "técnicas especializadas",
+    "description": "Procedimentos faciais e corporais planejados para renovar sua pele, valorizar seu olhar e proporcionar o relaxamento que você merece.",
+    "primaryLabel": "Agendar Horário no WhatsApp",
+    "primaryUrl": "https://wa.me/5571988224411",
     "secondaryLabel": "Ver serviços",
     "secondaryUrl": "#servicos",
     "tags": [
-      "Diferencial 1",
-      "Diferencial 2"
+      "Atendimento Personalizado",
+      "Localização Central",
+      "Ambiente Acolhedor"
     ]
   },
   "services": {
     "eyebrow": "O que oferecemos",
-    "title": "Nossos serviços",
-    "description": "Resumo dos serviços.",
-    "items": []
+    "title": "Nossos principais tratamentos",
+    "description": "Conheça os procedimentos focados em resultados reais para a sua pele, olhar e bem-estar.",
+    "items": [
+      {
+        "title": "Limpeza de Pele Profunda com Peeling Ultrassônico",
+        "description": "Remove impurezas, cravos e células mortas sem agredir a pele, utilizando tecnologia ultrassônica para potencializar a renovação celular e hidratação."
+      },
+      {
+        "title": "Design de Sobrancelhas com Henna",
+        "description": "Modelagem personalizada de acordo com a simetria do seu rosto, complementada com aplicação de henna para maior definição e preenchimento."
+      },
+      {
+        "title": "Extensão de Cílios Fio a Fio",
+        "description": "Técnica fio a fio que garante um olhar marcante, natural e prático para o dia a dia, respeitando a saúde dos seus fios naturais."
+      },
+      {
+        "title": "Massagem Relaxante e Drenagem",
+        "description": "Alívio imediato de tensões musculares, redução de retenção de líquidos e estímulo à circulação sanguínea para revigorar o corpo e a mente."
+      }
+    ]
   },
   "portfolio": {
     "eyebrow": "Portfólio",
-    "title": "Um pouco do nosso trabalho",
-    "description": "Fotos reais de projetos, produtos e ambientes.",
+    "title": "Resultados que transformam",
+    "description": "Confira alguns dos nossos procedimentos realizados com dedicação e precisão.",
     "items": []
   },
   "about": {
     "eyebrow": "Sobre nós",
-    "titleBefore": "Quem",
-    "titleHighlight": "somos",
+    "titleBefore": "Cuidando de você com",
+    "titleHighlight": "exclusividade",
     "titleAfter": "",
-    "description": "",
-    "values": [],
-    "stats": [],
+    "description": "O Studio Bella Face nasceu com o propósito de unir estética, saúde e bem-estar em um só lugar. Localizados no coração de Lauro de Freitas, oferecemos um espaço pensado nos mínimos detalhes para proporcionar uma experiência única de autocuidado.",
+    "values": [
+      {
+        "title": "Atenção aos Detalhes",
+        "description": "Protocolos adaptados para as necessidades específicas da sua pele e do seu corpo."
+      },
+      {
+        "title": "Higiene e Segurança",
+        "description": "Rigor absoluto com a esterilização e descartáveis para a tranquilidade de cada cliente."
+      },
+      {
+        "title": "Bem-Estar Completo",
+        "description": "Um refúgio de paz no centro da cidade para você desacelerar e renovar as energias."
+      }
+    ],
+    "stats": [
+      {
+        "value": "100%",
+        "label": "Foco em resultados"
+      },
+      {
+        "value": "Personalizado",
+        "label": "Atendimento exclusivo"
+      }
+    ],
     "title": ""
   },
   "process": {
     "eyebrow": "Como funciona",
     "titleBefore": "Do",
-    "titleHighlight": "primeiro contato",
+    "titleHighlight": "agendamento",
     "titleMiddle": "ao",
-    "titleAfter": "resultado final",
-    "description": "Explique o passo a passo do atendimento.",
-    "steps": []
+    "titleAfter": "cuidado ideal",
+    "description": "Um fluxo simples e direto para garantir o seu melhor atendimento.",
+    "steps": [
+      {
+        "title": "1. Contato inicial",
+        "description": "Você nos chama no WhatsApp para tirar dúvidas e escolher o serviço ideal."
+      },
+      {
+        "title": "2. Avaliação e ajuste",
+        "description": "Entendemos suas expectativas e alinhamos o melhor protocolo para o seu perfil."
+      },
+      {
+        "title": "3. Realização",
+        "description": "Você desfruta do procedimento em um ambiente aconchegante e seguro."
+      }
+    ]
   },
   "testimonials": {
     "eyebrow": "Depoimentos",
     "title": "Quem conhece, recomenda",
-    "description": "Resumo das avaliações.",
-    "items": []
+    "description": "A opinião de quem confia no nosso trabalho.",
+    "items": [
+      {
+        "name": "Cliente Bella Face",
+        "text": "Atendimento impecável! A limpeza de pele com peeling ultrassônico deixou meu rosto renovado.",
+        "role": "Cliente Verificada"
+      },
+      {
+        "name": "Cliente Bella Face",
+        "text": "O design de sobrancelhas com henna valorizou muito o meu olhar. Indico de olhos fechados!",
+        "role": "Cliente Verificada"
+      }
+    ]
   },
   "faq": {
     "eyebrow": "Perguntas frequentes",
-    "title": "Ainda tem dúvida?",
-    "description": "Dúvidas mais comuns.",
-    "items": []
+    "title": "Tire suas dúvidas",
+    "description": "Respostas rápidas para as principais questões sobre nossos atendimentos.",
+    "items": [
+      {
+        "question": "Como faço para agendar um horário?",
+        "answer": "Basta clicar em qualquer botão de WhatsApp do site ou nos enviar uma mensagem diretamente para o número (71) 98822-4411."
+      },
+      {
+        "question": "Onde o studio está localizado?",
+        "answer": "Estamos situados no Centro de Lauro de Freitas - BA, com fácil acesso."
+      },
+      {
+        "question": "A limpeza de pele dói?",
+        "answer": "Não. Com o uso do peeling ultrassônico e técnicas refinadas, o procedimento é confortável e altamente eficaz na remoção de impurezas."
+      }
+    ]
   },
   "contact": {
     "eyebrow": "Próximo passo",
     "titleBefore": "Vamos",
-    "titleHighlight": "conversar",
+    "titleHighlight": "agendar",
     "titleAfter": "?",
-    "description": "Explique como o cliente pode entrar em contato.",
+    "description": "Entre em contato agora mesmo pelo WhatsApp e garanta o seu horário.",
     "ctaLabel": "Falar no WhatsApp",
-    "ctaUrl": "",
-    "ctaNote": "",
-    "visitEyebrow": "Visite a loja",
-    "visitTitle": "Estamos perto de você",
+    "ctaUrl": "https://wa.me/5571988224411",
+    "ctaNote": "Resposta rápida durante o horário comercial.",
+    "visitEyebrow": "Visite o studio",
+    "visitTitle": "Estamos no Centro de Lauro de Freitas",
     "addressLabel": "Endereço",
     "addressLines": [
-      "R. Comendador José Alves Ferreira, 02 - Garcia, Salvador - BA, 40100-160",
-      "Salvador - BA"
+      "Centro",
+      "Lauro de Freitas - BA"
     ],
     "mapLabel": "Abrir no Google Maps",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=R.%20Comendador%20Jos%C3%A9%20Alves%20Ferreira%2C%2002%20-%20Garcia%2C%20Salvador%20-%20BA%2C%2040100-160%2C%20Salvador%20-%20BA",
-    "mapEmbedUrl": "https://www.google.com/maps?q=R.%20Comendador%20Jos%C3%A9%20Alves%20Ferreira%2C%2002%20-%20Garcia%2C%20Salvador%20-%20BA%2C%2040100-160%2C%20Salvador%20-%20BA&output=embed",
-    "phoneLabel": "Telefone",
-    "phone": "",
-    "phoneUrl": "",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Lauro+de+Freitas+BA",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Centro+Lauro+de+Freitas+BA&output=embed",
+    "phoneLabel": "Telefone / WhatsApp",
+    "phone": "(71) 98822-4411",
+    "phoneUrl": "tel:+5571988224411",
     "hoursLabel": "Horário de atendimento",
-    "hoursLines": [],
+    "hoursLines": [
+      "Segunda a Sábado: Mediante agendamento"
+    ],
     "hoursStructured": []
   },
   "footer": {
     "navigationTitle": "Navegação",
     "socialTitle": "Redes sociais",
     "socials": [],
-    "note": ""
+    "note": "Studio Bella Face Lauro - Todos os direitos reservados."
   },
   "colors": {
-    "primary": "#F59E0B",
+    "primary": "#D97706",
     "primaryForeground": "#ffffff",
-    "background": "#fbfdf9",
-    "foreground": "#18221b",
-    "mutedForeground": "#647067"
+    "background": "#FFFBF5",
+    "foreground": "#1F2937",
+    "mutedForeground": "#4B5563"
   }
 }
