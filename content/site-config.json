@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "title": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia | S",
+    "description": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia | Salão de Beleza & Cabelereiros | em Salvador",
+    "keywords": [
+      "Salão de Beleza & Cabelereiros",
+      "Salvador"
+    ],
+    "siteUrl": "",
+    "locale": "pt_BR",
+    "ogTitle": "Nome da Empresa | Serviço principal",
+    "ogDescription": "Resumo do negócio para compartilhamento em redes sociais.",
+    "themeColor": "#3f9f5b",
+    "business": {
+      "type": "BeautySalon",
+      "legalName": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia",
+      "priceRange": "$$",
+      "areaServed": "Salvador - BA e região",
+      "currency": "BRL",
+      "latitude": "",
+      "longitude": "",
+      "address": {
+        "street": "R. Comendador José Alves Ferreira, 02 - Garcia, Salvador - BA, 40100-160",
+        "district": "",
+        "city": "Salvador",
+        "region": "BA",
+        "postalCode": "",
+        "country": "BR"
+      },
+      "sameAs": []
+    }
+  },
+  "brand": {
+    "logoIcon": "✿",
+    "name": "Studio Que Beleza | Salão de Beleza e Manicure no Garcia",
+    "tagline": "Salão de Beleza & Cabelereiros",
+    "copyright": "© 2025 Nome da Empresa. Todos os direitos reservados.",
+    "whatsappUrl": "",
+    "instagramUrl": "",
+    "email": "",
+    "phoneLabel": "",
+    "phoneUrl": ""
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Serviços",
+        "href": "#servicos"
+      },
+      {
+        "label": "Sobre nós",
+        "href": "#sobre-nos"
+      },
+      {
+        "label": "Contato",
+        "href": "#contato"
+      }
+    ],
+    "ctaLabel": "Falar no WhatsApp",
+    "ctaUrl": "https://wa.me/5500000000000",
+    "menuTitle": "Menu",
+    "menuDescription": "Navegue pelas seções do site",
+    "menuToggleLabel": "Abrir menu",
+    "themeToggleLabel": "Alternar tema"
+  },
+  "hero": {
+    "eyebrow": "",
+    "title": "",
+    "highlight": "",
+    "description": "",
+    "primaryLabel": "Falar no WhatsApp",
+    "primaryUrl": "",
+    "secondaryLabel": "Ver serviços",
+    "secondaryUrl": "#servicos",
+    "tags": [
+      "Diferencial 1",
+      "Diferencial 2"
+    ]
+  },
+  "services": {
+    "eyebrow": "O que oferecemos",
+    "title": "Nossos serviços",
+    "description": "Resumo dos serviços.",
+    "items": []
+  },
+  "portfolio": {
+    "eyebrow": "Portfólio",
+    "title": "Um pouco do nosso trabalho",
+    "description": "Fotos reais de projetos, produtos e ambientes.",
+    "items": []
+  },
+  "about": {
+    "eyebrow": "Sobre nós",
+    "titleBefore": "Quem",
+    "titleHighlight": "somos",
+    "titleAfter": "",
+    "description": "",
+    "values": [],
+    "stats": [],
+    "title": ""
+  },
+  "process": {
+    "eyebrow": "Como funciona",
+    "titleBefore": "Do",
+    "titleHighlight": "primeiro contato",
+    "titleMiddle": "ao",
+    "titleAfter": "resultado final",
+    "description": "Explique o passo a passo do atendimento.",
+    "steps": []
+  },
+  "testimonials": {
+    "eyebrow": "Depoimentos",
+    "title": "Quem conhece, recomenda",
+    "description": "Resumo das avaliações.",
+    "items": []
+  },
+  "faq": {
+    "eyebrow": "Perguntas frequentes",
+    "title": "Ainda tem dúvida?",
+    "description": "Dúvidas mais comuns.",
+    "items": []
+  },
+  "contact": {
+    "eyebrow": "Próximo passo",
+    "titleBefore": "Vamos",
+    "titleHighlight": "conversar",
+    "titleAfter": "?",
+    "description": "Explique como o cliente pode entrar em contato.",
+    "ctaLabel": "Falar no WhatsApp",
+    "ctaUrl": "",
+    "ctaNote": "",
+    "visitEyebrow": "Visite a loja",
+    "visitTitle": "Estamos perto de você",
+    "addressLabel": "Endereço",
+    "addressLines": [
+      "R. Comendador José Alves Ferreira, 02 - Garcia, Salvador - BA, 40100-160",
+      "Salvador - BA"
+    ],
+    "mapLabel": "Abrir no Google Maps",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=R.%20Comendador%20Jos%C3%A9%20Alves%20Ferreira%2C%2002%20-%20Garcia%2C%20Salvador%20-%20BA%2C%2040100-160%2C%20Salvador%20-%20BA",
+    "mapEmbedUrl": "https://www.google.com/maps?q=R.%20Comendador%20Jos%C3%A9%20Alves%20Ferreira%2C%2002%20-%20Garcia%2C%20Salvador%20-%20BA%2C%2040100-160%2C%20Salvador%20-%20BA&output=embed",
+    "phoneLabel": "Telefone",
+    "phone": "",
+    "phoneUrl": "",
+    "hoursLabel": "Horário de atendimento",
+    "hoursLines": [],
+    "hoursStructured": []
+  },
+  "footer": {
+    "navigationTitle": "Navegação",
+    "socialTitle": "Redes sociais",
+    "socials": [],
+    "note": ""
+  },
+  "colors": {
+    "primary": "#F59E0B",
+    "primaryForeground": "#ffffff",
+    "background": "#fbfdf9",
+    "foreground": "#18221b",
+    "mutedForeground": "#647067"
+  }
+}
