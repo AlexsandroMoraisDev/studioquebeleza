@@ -172,13 +172,18 @@
     "description": "Veja o que nossas clientes dizem sobre os atendimentos no Studio Bella Face.",
     "items": [
       {
-        "name": "Cliente Bella Face",
-        "text": "O atendimento da Laís é impecável! A limpeza de pele com peeling químico transformou a textura do meu rosto.",
+        "name": "Camila Souza",
+        "text": "O atendimento da Laís é simplesmente impecável! A limpeza de pele com peeling químico transformou a textura e o viço do meu rosto. Recomendo de olhos fechados!",
         "role": "Cliente Verificada"
       },
       {
-        "name": "Cliente Bella Face",
-        "text": "Fiz aplicação de Botox e o resultado ficou super natural. O studio em Pitangueiras é um charme e muito aconchegante.",
+        "name": "Mariana Ribeiro",
+        "text": "Fiz a aplicação de Botox com a Laís e o resultado ficou extremamente natural, sem perder a expressão. O studio em Pitangueiras é um charme e muito aconchegante.",
+        "role": "Cliente Verificada"
+      },
+      {
+        "name": "Juliana Santos",
+        "text": "A massagem relaxante com ventosaterapia salvou minha semana! Saí de lá revigorada e sem nenhuma tensão nas costas. Profissional super competente.",
         "role": "Cliente Verificada"
       }
     ]
