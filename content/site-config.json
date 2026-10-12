@@ -1,48 +1,50 @@
 {
   "meta": {
-    "title": "Studio Bella Face | Estética Facial e Corporal em Lauro de Freitas",
-    "description": "Studio Bella Face | Referência em Limpeza de Pele, Design de Sobrancelhas, Cílios e Massagem no Centro de Lauro de Freitas - BA",
+    "title": "Studio Bella Face | Estética Avançada em Pitangueiras, Lauro de Freitas",
+    "description": "Studio Bella Face com Laís em Lauro de Freitas - BA. Especializada em Limpeza de Pele, Botox, Laser Lavieen e Massagem com Ventosaterapia.",
     "keywords": [
-      "Limpeza de Pele Lauro de Freitas",
-      "Design de Sobrancelhas Centro Lauro de Freitas",
-      "Extensão de Cílios Lauro de Freitas",
-      "Drenagem Linfática Lauro de Freitas",
-      "Estética Centro Lauro de Freitas"
+      "Limpeza de Pele Pitangueiras Lauro de Freitas",
+      "Aplicação de Botox Lauro de Freitas",
+      "Laser Lavieen Lauro de Freitas",
+      "Massagem e Ventosaterapia Lauro de Freitas",
+      "Estética Avançada Pitangueiras BA"
     ],
     "siteUrl": "",
     "locale": "pt_BR",
-    "ogTitle": "Studio Bella Face | Estética e Bem-Estar em Lauro de Freitas",
-    "ogDescription": "Realce sua beleza natural com tratamentos faciais e corporais especializados no centro de Lauro de Freitas.",
-    "themeColor": "#D97706",
+    "ogTitle": "Studio Bella Face | Estética Avançada e Bem-Estar",
+    "ogDescription": "Realce sua beleza com procedimentos de alto padrão no bairro Pitangueiras, em Lauro de Freitas. Agende sua avaliação.",
+    "themeColor": "#C29B38",
     "business": {
       "type": "BeautySalon",
-      "legalName": "Studio Bella Face Lauro",
+      "legalName": "Studio Bella Face",
       "priceRange": "$$",
       "areaServed": "Lauro de Freitas - BA e região",
       "currency": "BRL",
       "latitude": "",
       "longitude": "",
       "address": {
-        "street": "Centro",
-        "district": "Centro",
+        "street": "Rua Leonardo Rodrigues da Silva, 248",
+        "district": "Pitangueiras",
         "city": "Lauro de Freitas",
         "region": "BA",
-        "postalCode": "42700-000",
+        "postalCode": "42701-420",
         "country": "BR"
       },
-      "sameAs": []
+      "sameAs": [
+        "https://instagram.com/studiobelafaceoficial"
+      ]
     }
   },
   "brand": {
     "logoIcon": "✨",
     "name": "Studio Bella Face",
-    "tagline": "Estética Avançada e Bem-Estar",
-    "copyright": "© 2026 Studio Bella Face Lauro. Todos os direitos reservados.",
-    "whatsappUrl": "https://wa.me/5571988224411",
-    "instagramUrl": "",
+    "tagline": "Estética Avançada e Rejuvenescimento",
+    "copyright": "© 2026 Studio Bella Face. Todos os direitos reservados.",
+    "whatsappUrl": "https://wa.me/5571985012722",
+    "instagramUrl": "https://instagram.com/studiobelafaceoficial",
     "email": "",
-    "phoneLabel": "(71) 98822-4411",
-    "phoneUrl": "tel:+5571988224411"
+    "phoneLabel": "(71) 98501-2722",
+    "phoneUrl": "tel:+5571985012722"
   },
   "navbar": {
     "links": [
@@ -60,84 +62,84 @@
       }
     ],
     "ctaLabel": "Agendar pelo WhatsApp",
-    "ctaUrl": "https://wa.me/5571988224411",
+    "ctaUrl": "https://wa.me/5571985012722",
     "menuTitle": "Menu",
     "menuDescription": "Navegue pelas seções do site",
     "menuToggleLabel": "Abrir menu",
     "themeToggleLabel": "Alternar tema"
   },
   "hero": {
-    "eyebrow": "Cuidado e Autoestima no Centro de Lauro de Freitas",
-    "title": "Realce sua beleza com",
-    "highlight": "técnicas especializadas",
-    "description": "Procedimentos faciais e corporais planejados para renovar sua pele, valorizar seu olhar e proporcionar o relaxamento que você merece.",
-    "primaryLabel": "Agendar Horário no WhatsApp",
-    "primaryUrl": "https://wa.me/5571988224411",
-    "secondaryLabel": "Ver serviços",
+    "eyebrow": "Excelência em Estética em Pitangueiras, Lauro de Freitas",
+    "title": "Renove sua pele e redefina",
+    "highlight": "sua melhor versão",
+    "description": "Procedimentos faciais e corporais de alta performance conduzidos por Laís, focados em resultados reais, segurança e sofisticação.",
+    "primaryLabel": "Agendar Avaliação no WhatsApp",
+    "primaryUrl": "https://wa.me/5571985012722",
+    "secondaryLabel": "Ver tratamentos",
     "secondaryUrl": "#servicos",
     "tags": [
-      "Atendimento Personalizado",
-      "Localização Central",
-      "Ambiente Acolhedor"
+      "Tecnologia Avançada",
+      "Atendimento Exclusivo",
+      "Pitangueiras - Lauro de Freitas"
     ]
   },
   "services": {
-    "eyebrow": "O que oferecemos",
-    "title": "Nossos principais tratamentos",
-    "description": "Conheça os procedimentos focados em resultados reais para a sua pele, olhar e bem-estar.",
+    "eyebrow": "Nossos Tratamentos",
+    "title": "Protocolos de Alta Performance",
+    "description": "Conheça nossos principais serviços desenvolvidos para cuidar da saúde da sua pele e do seu bem-estar.",
     "items": [
       {
-        "title": "Limpeza de Pele Profunda com Peeling Ultrassônico",
-        "description": "Remove impurezas, cravos e células mortas sem agredir a pele, utilizando tecnologia ultrassônica para potencializar a renovação celular e hidratação."
+        "title": "Limpeza de Pele com Peeling Químico",
+        "description": "R$ 400,00 — Higienização profunda associada a ativos de peeling químico para remoção de impurezas, estímulo de colágeno e renovação celular completa."
       },
       {
-        "title": "Design de Sobrancelhas com Henna",
-        "description": "Modelagem personalizada de acordo com a simetria do seu rosto, complementada com aplicação de henna para maior definição e preenchimento."
+        "title": "Aplicação de Botox (3 áreas)",
+        "description": "R$ 990,00 — Suavização e prevenção de rugas dinâmicas na testa, glabela e área dos olhos, preservando a naturalidade das expressões."
       },
       {
-        "title": "Extensão de Cílios Fio a Fio",
-        "description": "Técnica fio a fio que garante um olhar marcante, natural e prático para o dia a dia, respeitando a saúde dos seus fios naturais."
+        "title": "Laser Lavieen / Peeling Químico",
+        "description": "R$ 250,00 — Tecnologia de ponta para uniformização do tom da pele, melhora de textura, viço e tratamento de manchas."
       },
       {
-        "title": "Massagem Relaxante e Drenagem",
-        "description": "Alívio imediato de tensões musculares, redução de retenção de líquidos e estímulo à circulação sanguínea para revigorar o corpo e a mente."
+        "title": "Massagem Relaxante + Ventosaterapia",
+        "description": "R$ 160,00 — Combinação perfeita para liberação de tensões musculares profundas, melhora da circulação e alívio do estresse diário."
       }
     ]
   },
   "portfolio": {
     "eyebrow": "Portfólio",
-    "title": "Resultados que transformam",
-    "description": "Confira alguns dos nossos procedimentos realizados com dedicação e precisão.",
+    "title": "Resultados e Experiência",
+    "description": "Confira um pouco da nossa dedicação em transformar o cuidado estético em um momento único.",
     "items": []
   },
   "about": {
-    "eyebrow": "Sobre nós",
-    "titleBefore": "Cuidando de você com",
-    "titleHighlight": "exclusividade",
+    "eyebrow": "Sobre a Profissional",
+    "titleBefore": "Cuidado especializado com",
+    "titleHighlight": "Laís",
     "titleAfter": "",
-    "description": "O Studio Bella Face nasceu com o propósito de unir estética, saúde e bem-estar em um só lugar. Localizados no coração de Lauro de Freitas, oferecemos um espaço pensado nos mínimos detalhes para proporcionar uma experiência única de autocuidado.",
+    "description": "O Studio Bella Face é referência em tratamentos estéticos avançados em Lauro de Freitas. Sob a liderança de Laís, unimos técnica refinada, segurança clínica e um ambiente acolhedor no bairro Pitangueiras para elevar sua autoestima.",
     "values": [
       {
-        "title": "Atenção aos Detalhes",
-        "description": "Protocolos adaptados para as necessidades específicas da sua pele e do seu corpo."
+        "title": "Segurança e Rigor",
+        "description": "Protocolos validados e padrões rigorosos de biossegurança em todos os procedimentos."
       },
       {
-        "title": "Higiene e Segurança",
-        "description": "Rigor absoluto com a esterilização e descartáveis para a tranquilidade de cada cliente."
+        "title": "Resultados Naturais",
+        "description": "Valorização da sua beleza autêntica com foco na harmonia facial e corporal."
       },
       {
-        "title": "Bem-Estar Completo",
-        "description": "Um refúgio de paz no centro da cidade para você desacelerar e renovar as energias."
+        "title": "Atendimento Humanizado",
+        "description": "Atenção exclusiva e escuta ativa para entender exatamente o que sua pele precisa."
       }
     ],
     "stats": [
       {
         "value": "100%",
-        "label": "Foco em resultados"
+        "label": "Foco em excelência"
       },
       {
         "value": "Personalizado",
-        "label": "Atendimento exclusivo"
+        "label": "Planejamento para cada pele"
       }
     ],
     "title": ""
@@ -145,38 +147,38 @@
   "process": {
     "eyebrow": "Como funciona",
     "titleBefore": "Do",
-    "titleHighlight": "agendamento",
+    "titleHighlight": "primeiro contato",
     "titleMiddle": "ao",
-    "titleAfter": "cuidado ideal",
-    "description": "Um fluxo simples e direto para garantir o seu melhor atendimento.",
+    "titleAfter": "resultado",
+    "description": "Um fluxo simples estruturado para garantir a melhor experiência para você.",
     "steps": [
       {
-        "title": "1. Contato inicial",
-        "description": "Você nos chama no WhatsApp para tirar dúvidas e escolher o serviço ideal."
+        "title": "1. Contato no WhatsApp",
+        "description": "Você nos chama para tirar dúvidas sobre valores, horários e indicação de tratamentos."
       },
       {
-        "title": "2. Avaliação e ajuste",
-        "description": "Entendemos suas expectativas e alinhamos o melhor protocolo para o seu perfil."
+        "title": "2. Avaliação Personalizada",
+        "description": "Analisamos as necessidades da sua pele para definir o protocolo ideal com a Laís."
       },
       {
-        "title": "3. Realização",
-        "description": "Você desfruta do procedimento em um ambiente aconchegante e seguro."
+        "title": "3. Procedimento",
+        "description": "Você realiza o atendimento com total conforto em nosso espaço em Pitangueiras."
       }
     ]
   },
   "testimonials": {
     "eyebrow": "Depoimentos",
-    "title": "Quem conhece, recomenda",
-    "description": "A opinião de quem confia no nosso trabalho.",
+    "title": "Quem conhece, confia",
+    "description": "Veja o que nossas clientes dizem sobre os atendimentos no Studio Bella Face.",
     "items": [
       {
         "name": "Cliente Bella Face",
-        "text": "Atendimento impecável! A limpeza de pele com peeling ultrassônico deixou meu rosto renovado.",
+        "text": "O atendimento da Laís é impecável! A limpeza de pele com peeling químico transformou a textura do meu rosto.",
         "role": "Cliente Verificada"
       },
       {
         "name": "Cliente Bella Face",
-        "text": "O design de sobrancelhas com henna valorizou muito o meu olhar. Indico de olhos fechados!",
+        "text": "Fiz aplicação de Botox e o resultado ficou super natural. O studio em Pitangueiras é um charme e muito aconchegante.",
         "role": "Cliente Verificada"
       }
     ]
@@ -184,19 +186,19 @@
   "faq": {
     "eyebrow": "Perguntas frequentes",
     "title": "Tire suas dúvidas",
-    "description": "Respostas rápidas para as principais questões sobre nossos atendimentos.",
+    "description": "Respostas rápidas para as principais questões sobre nossos procedimentos.",
     "items": [
       {
         "question": "Como faço para agendar um horário?",
-        "answer": "Basta clicar em qualquer botão de WhatsApp do site ou nos enviar uma mensagem diretamente para o número (71) 98822-4411."
+        "answer": "Basta nos chamar diretamente no WhatsApp (71) 98501-2722 para verificar a disponibilidade de agenda com a Laís."
       },
       {
         "question": "Onde o studio está localizado?",
-        "answer": "Estamos situados no Centro de Lauro de Freitas - BA, com fácil acesso."
+        "answer": "Estamos localizados na Rua Leonardo Rodrigues da Silva, 248 - Pitangueiras, Lauro de Freitas - BA (CEP: 42701-420)."
       },
       {
-        "question": "A limpeza de pele dói?",
-        "answer": "Não. Com o uso do peeling ultrassônico e técnicas refinadas, o procedimento é confortável e altamente eficaz na remoção de impurezas."
+        "question": "A aplicação de Botox engloba quantas áreas?",
+        "answer": "O valor de referência de R$ 990,00 contempla 3 áreas clássicas (geralmente testa, glabela e rugas ao redor dos olhos)."
       }
     ]
   },
@@ -205,40 +207,45 @@
     "titleBefore": "Vamos",
     "titleHighlight": "agendar",
     "titleAfter": "?",
-    "description": "Entre em contato agora mesmo pelo WhatsApp e garanta o seu horário.",
+    "description": "Entre em contato agora mesmo pelo WhatsApp e garanta o seu horário com a Laís.",
     "ctaLabel": "Falar no WhatsApp",
-    "ctaUrl": "https://wa.me/5571988224411",
-    "ctaNote": "Resposta rápida durante o horário comercial.",
+    "ctaUrl": "https://wa.me/5571985012722",
+    "ctaNote": "Atendimento mediante agendamento prévio.",
     "visitEyebrow": "Visite o studio",
-    "visitTitle": "Estamos no Centro de Lauro de Freitas",
+    "visitTitle": "Estamos em Pitangueiras, Lauro de Freitas",
     "addressLabel": "Endereço",
     "addressLines": [
-      "Centro",
-      "Lauro de Freitas - BA"
+      "Rua Leonardo Rodrigues da Silva, 248 - Pitangueiras",
+      "Lauro de Freitas - BA, 42701-420"
     ],
     "mapLabel": "Abrir no Google Maps",
-    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Centro+Lauro+de+Freitas+BA",
-    "mapEmbedUrl": "https://www.google.com/maps?q=Centro+Lauro+de+Freitas+BA&output=embed",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Rua+Leonardo+Rodrigues+da+Silva+248+Pitangueiras+Lauro+de+Freitas+BA",
+    "mapEmbedUrl": "https://www.google.com/maps?q=Rua+Leonardo+Rodrigues+da+Silva+248+Pitangueiras+Lauro+de+Freitas+BA&output=embed",
     "phoneLabel": "Telefone / WhatsApp",
-    "phone": "(71) 98822-4411",
-    "phoneUrl": "tel:+5571988224411",
+    "phone": "(71) 98501-2722",
+    "phoneUrl": "tel:+5571985012722",
     "hoursLabel": "Horário de atendimento",
     "hoursLines": [
-      "Segunda a Sábado: Mediante agendamento"
+      "Segunda a Sábado: Com horário marcado"
     ],
     "hoursStructured": []
   },
   "footer": {
     "navigationTitle": "Navegação",
     "socialTitle": "Redes sociais",
-    "socials": [],
-    "note": "Studio Bella Face Lauro - Todos os direitos reservados."
+    "socials": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/studiobelafaceoficial"
+      }
+    ],
+    "note": "Studio Bella Face - Todos os direitos reservados."
   },
   "colors": {
-    "primary": "#D97706",
+    "primary": "#C29B38",
     "primaryForeground": "#ffffff",
-    "background": "#FFFBF5",
-    "foreground": "#1F2937",
-    "mutedForeground": "#4B5563"
+    "background": "#FAFAFA",
+    "foreground": "#1A1A1A",
+    "mutedForeground": "#595959"
   }
 }
